@@ -12,6 +12,6 @@ Quick Bio:
 **I was born in Saint-Petersburg in 2007 & then immigrated to Canada (Ottawa) in 2022**
 
 Skills that I have:
-**English & Russian languages**
-**Python & C++ & Javascript programming languages**
+**English & Russian languages, **
+**Python & C++ & Javascript programming languages, **
 **Basic understanding of React Native expo**
